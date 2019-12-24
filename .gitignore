@@ -1,6 +1,6 @@
 .vs/*
 *.cache
-ArksUtility.sln.DotSettings.user
+*.DotSettings.user
 KaedeInSpace.ArksUtility/obj/*
 KaedeInSpace.ArksUtility/bin/*
 KaedeInSpace.ArksUtility.Logs/obj/*
